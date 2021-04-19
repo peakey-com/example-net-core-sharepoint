@@ -21,3 +21,5 @@ In order to run this you will need.
      * CERTIFICATE_PATH (pfx)
      * CERTIFICATE_PASSWORD
      * LIST_NAME
+
+![alt text](readme.png?raw=true "SharePoint List")
